@@ -125,7 +125,7 @@ h1 {
   font-size: 2.25em;
   font-weight: 500;
   line-height: 43px;
-  color: greenyellow;
+  color: fuchsia;
 }
 
 h2 {
@@ -147,7 +147,7 @@ p {
 }
 
 .hero-area p{
-  color: greenyellow;
+  color: fuchsia;
 }
 
 header img {
@@ -203,7 +203,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
-  background-color: green;
+  background-color: fuchsia;
 }
 
 header {
@@ -212,8 +212,6 @@ header {
 
 header .content-wrapper {
   display: flex;
-  /* justify-content: flex-start; */
-  /* align-items: center; */
   flex-flow: row wrap;
   margin: 0;
 }
