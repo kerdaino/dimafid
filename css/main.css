@@ -226,7 +226,6 @@ header .content-wrapper {
 header nav {
   display: flex;
   justify-content: space-around;
-  /* align-items: center; */
   flex-flow: row wrap;
   width: 20%;
 }
@@ -286,7 +285,7 @@ footer .copyright {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
-  background: url('../img/men.jpg') center no-repeat #333;
+  background: url('../img/women.jpg') center no-repeat #333;
   background-size: cover;
 }
 
